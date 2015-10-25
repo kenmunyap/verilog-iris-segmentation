@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'N/C'
+Slack : -4.568
+TNS   : -70.428
+
+Type  : Slow Model Setup 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : -1.728
+TNS   : -95.000
+
+Type  : Slow Model Setup 'GPIO_1[0]'
+Slack : 5.582
+TNS   : 0.000
+
+Type  : Slow Model Setup 'CLOCK_50'
+Slack : 14.507
+TNS   : 0.000
+
+Type  : Slow Model Hold 'GPIO_1[0]'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Slow Model Hold 'CLOCK_50'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'N/C'
+Slack : 2.604
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : -1.427
+TNS   : -272.548
+
+Type  : Slow Model Recovery 'GPIO_1[0]'
+Slack : 8.813
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'CLOCK_50'
+Slack : 15.296
+TNS   : 0.000
+
+Type  : Slow Model Removal 'GPIO_1[0]'
+Slack : 0.133
+TNS   : 0.000
+
+Type  : Slow Model Removal 'CLOCK_50'
+Slack : 2.139
+TNS   : 0.000
+
+Type  : Slow Model Removal 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : 4.792
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : 1.620
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'GPIO_1[0]'
+Slack : 7.620
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'GPIO_1[16]'
+Slack : 17.223
+TNS   : 0.000
+
+Type  : Fast Model Setup 'N/C'
+Slack : -1.728
+TNS   : -26.596
+
+Type  : Fast Model Setup 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast Model Setup 'GPIO_1[0]'
+Slack : 4.923
+TNS   : 0.000
+
+Type  : Fast Model Setup 'CLOCK_50'
+Slack : 17.503
+TNS   : 0.000
+
+Type  : Fast Model Hold 'GPIO_1[0]'
+Slack : 0.010
+TNS   : 0.000
+
+Type  : Fast Model Hold 'CLOCK_50'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'N/C'
+Slack : 1.228
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : 0.509
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'GPIO_1[0]'
+Slack : 8.935
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'CLOCK_50'
+Slack : 17.334
+TNS   : 0.000
+
+Type  : Fast Model Removal 'GPIO_1[0]'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Fast Model Removal 'CLOCK_50'
+Slack : 1.206
+TNS   : 0.000
+
+Type  : Fast Model Removal 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : 3.088
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'sdram_pll:u8|altpll:altpll_component|_clk0'
+Slack : 1.620
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'GPIO_1[0]'
+Slack : 7.620
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'GPIO_1[16]'
+Slack : 17.223
+TNS   : 0.000
+
+------------------------------------------------------------
